@@ -1,2 +1,1 @@
-# PrepCourse-Diego
-Repositorio de prueba del modulo 2
+Este proyecto es la primera prueba
